@@ -781,7 +781,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Gixvtn9UDvMvpapJH9zg" name="Página-2">
+  <diagram id="Gixvtn9UDvMvpapJH9zg" name="Integração Pottencial">
     <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -790,7 +790,7 @@
           <mxGeometry x="222" y="61" width="280" height="262" as="geometry" />
         </mxCell>
         <mxCell id="0hj2FMZnIdoPffBc1mj8-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="238.55" y="94.13" width="201.45" height="176.75" as="geometry" />
+          <mxGeometry x="238.55" y="94.13" width="246.45" height="201.87" as="geometry" />
         </mxCell>
         <mxCell id="0hj2FMZnIdoPffBc1mj8-13" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Subaccount&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="250" y="104.13999999999999" width="120" height="30" as="geometry" />
@@ -889,10 +889,10 @@
           <mxGeometry x="238.55000000000024" y="67" width="67.25" height="18.55" as="geometry" />
         </mxCell>
         <mxCell id="oNGSSXeMs6wVU56pLy9Y-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="130" width="161.45" height="129.88" as="geometry" />
+          <mxGeometry x="260" y="130" width="178" height="154" as="geometry" />
         </mxCell>
         <mxCell id="oNGSSXeMs6wVU56pLy9Y-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="oNGSSXeMs6wVU56pLy9Y-10">
-          <mxGeometry x="-10.001904761904765" y="6.184761904761904" width="153.76190476190473" height="123.69523809523808" as="geometry" />
+          <mxGeometry x="-10" y="6.18" width="188" height="147.82" as="geometry" />
         </mxCell>
         <mxCell id="oNGSSXeMs6wVU56pLy9Y-13" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Integration Suite&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="oNGSSXeMs6wVU56pLy9Y-10">
           <mxGeometry x="-6.240312694139574" y="6.179999999999978" width="150" height="30" as="geometry" />
